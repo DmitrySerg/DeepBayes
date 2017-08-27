@@ -1,0 +1,14 @@
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# csv files
+*.csv
+
+# archives
+*.zip
+*.gz
+
+*.pyc
