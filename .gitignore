@@ -12,7 +12,7 @@
 *.gz
 
 *.pyc
-.npy
-.pkl
-,pcl
+*.npy
+*.pkl
+*.pcl
 
